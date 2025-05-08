@@ -1,0 +1,18 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /*position: relative;*/
+  /*font-weight: normal;*/
+}
+
+body {
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+  color: var(--a_color);
+}
